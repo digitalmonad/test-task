@@ -1,3 +1,5 @@
+TO MAKE AUTH WORK PROPERLY OPEN .env FILE AND REPLACE "replace_with_google_id" WITH THIS KEY: 252463967632-hll4i942hq4du68umj0fukd70pp21tnr.apps.googleusercontent.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
